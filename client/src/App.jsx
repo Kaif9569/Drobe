@@ -15,7 +15,7 @@ import Login from "./pages/Login";
 import PlaceOrder from "./pages/PlaceOrder";
 import Orders from "./pages/Orders";
 import Footer from "./components/Footer";
-import SearchBar from "./components/searchBar";
+import SearchBar from "./components/SearchBar";
 
 const App = () => {
   return (
